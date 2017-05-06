@@ -9,6 +9,7 @@
         <module name="microservice-api-gateway" />
         <module name="microservice-config-client" />
         <module name="microservice-config-client-eureka" />
+        <module name="microservice-config-client-eureka-bus" />
         <module name="microservice-config-server" />
         <module name="microservice-config-server-eureka" />
         <module name="microservice-consumer-movie-feign" />
@@ -26,6 +27,7 @@
       <module name="microservice-api-gateway" target="1.8" />
       <module name="microservice-config-client" target="1.8" />
       <module name="microservice-config-client-eureka" target="1.8" />
+      <module name="microservice-config-client-eureka-bus" target="1.8" />
       <module name="microservice-config-server" target="1.8" />
       <module name="microservice-config-server-eureka" target="1.8" />
       <module name="microservice-consumer-movie-feign" target="1.8" />
@@ -37,7 +39,7 @@
       <module name="microservice-hystrix-dashboard" target="1.8" />
       <module name="microservice-hystrix-turbine" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
-      <module name="spring-cloud-microservice-study" target="1.8" />
+      <module name="spring-cloud-study" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

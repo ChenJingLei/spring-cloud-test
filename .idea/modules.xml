@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-api-gateway/microservice-api-gateway.iml" filepath="$PROJECT_DIR$/microservice-api-gateway/microservice-api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" filepath="$PROJECT_DIR$/microservice-config-client/microservice-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-client-eureka/microservice-config-client-eureka.iml" filepath="$PROJECT_DIR$/microservice-config-client-eureka/microservice-config-client-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-config-client-eureka-bus/microservice-config-client-eureka-bus.iml" filepath="$PROJECT_DIR$/microservice-config-client-eureka-bus/microservice-config-client-eureka-bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" filepath="$PROJECT_DIR$/microservice-config-server/microservice-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-config-server-eureka/microservice-config-server-eureka.iml" filepath="$PROJECT_DIR$/microservice-config-server-eureka/microservice-config-server-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie-feign/microservice-consumer-movie-feign.iml" />
@@ -16,7 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservice-hystrix-dashboard/microservice-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/microservice-hystrix-turbine/microservice-hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/microservice-provider-user/microservice-provider-user.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-microservice-study.iml" filepath="$PROJECT_DIR$/spring-cloud-microservice-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-study.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-study.iml" />
     </modules>
   </component>
 </project>
