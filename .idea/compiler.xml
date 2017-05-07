@@ -21,6 +21,7 @@
         <module name="microservice-hystrix-dashboard" />
         <module name="microservice-hystrix-turbine" />
         <module name="microservice-provider-user" />
+        <module name="spring-cloud-starter-oauth2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +40,7 @@
       <module name="microservice-hystrix-dashboard" target="1.8" />
       <module name="microservice-hystrix-turbine" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
+      <module name="spring-cloud-starter-oauth2" target="1.8" />
       <module name="spring-cloud-study" target="1.8" />
     </bytecodeTargetLevel>
   </component>
